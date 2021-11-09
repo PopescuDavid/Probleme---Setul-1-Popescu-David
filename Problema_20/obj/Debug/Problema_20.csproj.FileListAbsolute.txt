@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\Probleme-Setul 1 Popescu David\Problema_20\Problema_20\bin\Debug\Problema_20.exe.config
+C:\Users\David\source\repos\Probleme-Setul 1 Popescu David\Problema_20\Problema_20\bin\Debug\Problema_20.exe
+C:\Users\David\source\repos\Probleme-Setul 1 Popescu David\Problema_20\Problema_20\bin\Debug\Problema_20.pdb
+C:\Users\David\source\repos\Probleme-Setul 1 Popescu David\Problema_20\Problema_20\obj\Debug\Problema_20.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Probleme-Setul 1 Popescu David\Problema_20\Problema_20\obj\Debug\Problema_20.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Probleme-Setul 1 Popescu David\Problema_20\Problema_20\obj\Debug\Problema_20.exe
+C:\Users\David\source\repos\Probleme-Setul 1 Popescu David\Problema_20\Problema_20\obj\Debug\Problema_20.pdb
